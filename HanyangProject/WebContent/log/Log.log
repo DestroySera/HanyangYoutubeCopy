@@ -1,0 +1,4 @@
+2022-05-10 20:04:27,112 INFO  [http-nio-8090-exec-2] dao.DBConn (DBConn.java:22) - [INFO] DataBase Connect
+2022-05-10 20:04:27,282 DEBUG [http-nio-8090-exec-2] dao.MemberDAO (MemberDAO.java:38) - [DEBUG] ID :user PW : password NAME : user
+2022-05-10 20:04:27,282 INFO  [http-nio-8090-exec-2] dao.MemberDAO (MemberDAO.java:39) - [INFO] SELECT Data
+2022-05-10 20:04:27,285 INFO  [http-nio-8090-exec-2] servlet.LOGIN (LOGIN.java:64) - [INFO] Login Success
